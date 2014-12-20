@@ -13,3 +13,6 @@
 [submodule "/home/jaume/.vim/bundle/nerdtree"]
 	path = /home/jaume/.vim/bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree
+[submodule "/home/jaume/.vim/bundle/ctrlp-smarttabs"]
+	path = /home/jaume/.vim/bundle/ctrlp-smarttabs
+	url = https://github.com/DavidEGx/ctrlp-smarttabs.git
