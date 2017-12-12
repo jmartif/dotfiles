@@ -1,20 +1,20 @@
-[submodule "/home/jaume/.vim/bundle/ctrlp.vim"]
-	path = /home/jaume/.vim/bundle/ctrlp.vim
+[submodule ".vim/bundle/ctrlp.vim"]
+	path = .vim/bundle/ctrlp.vim
 	url = https://github.com/kien/ctrlp.vim.git
-[submodule "/home/jaume/.vim/bundle/syntastic"]
-	path = /home/jaume/.vim/bundle/syntastic
+[submodule ".vim/bundle/syntastic"]
+	path = .vim/bundle/syntastic
 	url = https://github.com/scrooloose/syntastic
-[submodule "/home/jaume/.vim/bundle/nerdcommenter"]
-	path = /home/jaume/.vim/bundle/nerdcommenter
+[submodule ".vim/bundle/nerdcommenter"]
+	path = .vim/bundle/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter
-[submodule "/home/jaume/.vim/bundle/tabular"]
-	path = /home/jaume/.vim/bundle/tabular
+[submodule ".vim/bundle/tabular"]
+	path = .vim/bundle/tabular
 	url = git://github.com/godlygeek/tabular.git
-[submodule "/home/jaume/.vim/bundle/nerdtree"]
-	path = /home/jaume/.vim/bundle/nerdtree
+[submodule ".vim/bundle/nerdtree"]
+	path = .vim/bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree
 [submodule ".vim/bundle/ctrlp-smarttabs"]
-	path = /home/jaume/.vim/bundle/ctrlp-smarttabs
+	path = .vim/bundle/ctrlp-smarttabs
 	url = https://github.com/DavidEGx/ctrlp-smarttabs.git
 [submodule ".tmux/plugins/tpm"]
 	path = .tmux/plugins/tpm
