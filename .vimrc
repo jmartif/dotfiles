@@ -24,4 +24,5 @@ let g:NERDTreeShowHidden=1
 source ~/.vim/maps/ctrlp_maps.vim 
 source ~/.vim/maps/cscope_maps.vim 
 source ~/.vim/maps/delete_maps.vim
+source ~/.vim/maps/nerdtree_maps.vim
 
